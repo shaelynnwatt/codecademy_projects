@@ -52,3 +52,10 @@ WHERE country = "Indonesia"
 
 
 
+--My own question (to test my git push!):  How many countries in this database start with the letter A?
+SELECT "The number of countries whose names start with A:"
+SELECT COUNT(DISTINCT country)
+FROM population_years
+WHERE country LIKE "A%";
+
+
