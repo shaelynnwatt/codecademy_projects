@@ -1,0 +1,128 @@
+The years covered by this dataset are:
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+The largest population size for Gabon in this dataset is:
+1.54526
+The ten lowest population countries in 2005 were:
+Niue
+Falkland Islands (Islas Malvinas)
+Montserrat
+Saint Pierre and Miquelon
+Saint Helena
+Nauru
+Cook Islands
+Turks and Caicos Islands
+Virgin Islands, British
+Gibraltar
+Countries with a population of over 100 million in the year 2010 include:
+Mexico
+United States
+Brazil
+Russia
+Nigeria
+Bangladesh
+China
+India
+Indonesia
+Japan
+Pakistan
+The number of countries in this dataset with the word Islands in their name:
+9
+Cayman Islands
+Falkland Islands (Islas Malvinas)
+Turks and Caicos Islands
+Virgin Islands,  U.S.
+Virgin Islands, British
+Faroe Islands
+Cook Islands
+Solomon Islands
+U.S. Pacific Islands
+The difference in Indonesia's population between 2000 and 2010:
+28.29173
+Have larger countries seen larger population increases over time?
+What countries have the five largest and five smallest populations in this dataset in 2000?
+Largest (population in millions):
+China
+India
+United States
+Indonesia
+Brazil
+Smallest (population in millions):
+Timor-Leste (East Timor)
+Niue
+Falkland Islands (Islas Malvinas)
+Montserrat
+Saint Pierre and Miquelon
+The years covered by this dataset are:
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+The largest population size for Gabon in this dataset is:
+1.54526
+The ten lowest population countries in 2005 were:
+Niue
+Falkland Islands (Islas Malvinas)
+Montserrat
+Saint Pierre and Miquelon
+Saint Helena
+Nauru
+Cook Islands
+Turks and Caicos Islands
+Virgin Islands, British
+Gibraltar
+Countries with a population of over 100 million in the year 2010 include:
+Mexico
+United States
+Brazil
+Russia
+Nigeria
+Bangladesh
+China
+India
+Indonesia
+Japan
+Pakistan
+The number of countries in this dataset with the word Islands in their name:
+9
+Cayman Islands
+Falkland Islands (Islas Malvinas)
+Turks and Caicos Islands
+Virgin Islands,  U.S.
+Virgin Islands, British
+Faroe Islands
+Cook Islands
+Solomon Islands
+U.S. Pacific Islands
+The difference in Indonesia's population between 2000 and 2010:
+28.29173
+Have larger countries seen larger population increases over time?
+What countries have the five largest and five smallest populations in this dataset in 2000?
+Largest (population in millions):
+China
+India
+United States
+Indonesia
+Brazil
+Smallest (population in millions):
+Timor-Leste (East Timor)
+Niue
+Falkland Islands (Islas Malvinas)
+Montserrat
+Saint Pierre and Miquelon
